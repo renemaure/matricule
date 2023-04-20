@@ -1,0 +1,18 @@
+{
+	"dep_etap" : "0",
+	"vitesse" : "700",
+	"src_code" : "systeme/donnees/diffusion",
+	"ver_diff" : "03",
+	"ext_json" : ".json",
+	"tempo_dep" : "2500",
+	"src_img" : "systeme/images/digit_",
+	"ext_img" : ".png",
+	"coprght" : "© 2002-2021",
+	"version" : "4.1.7",
+	"date" : "15/08/2021",
+	"txt_site" : "Ceci est la forme symbolique du nombre 11880 vu d'un afficheur alphanumérique au travers d'un site internet.",
+	"Ma" : "systeme/donnees/manifeste",
+	"In" : "systeme/donnees/afficheur",
+	"mat" : "Le manifeste",
+	"int" :"L'afficheur"
+}

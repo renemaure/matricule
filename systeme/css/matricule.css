@@ -1,0 +1,90 @@
+body {
+  height: 100%;
+  background-color: #333;
+  display: flex;
+  color: rgba(255, 255, 255, .5);
+  text-align: center;
+}
+.bloc100 {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+header {
+   margin-bottom: auto;
+}
+nav{
+	width: 50%;
+	float: right;
+}
+.manisfete {
+    color: rgba(255, 255, 255, .5);
+    cursor: pointer;
+    text-decoration: none;
+    float: right;
+ }
+.bt-titre{ 
+	float: right;
+    padding-right: 0.75rem;
+    padding-top: 0.5rem;
+    font-style: italic;
+    color :  #333;
+}
+.bouton-nav {
+	width: 2em;
+    height: 2em;
+    fill: currentcolor;
+    float: right;
+}
+.manisfete:hover , .manisfete .bt-titre:hover {
+
+ color: rgba(255, 255, 255);
+}
+.txt_deroulant{
+    margin-bottom: 1.5rem;
+    font-size: 1.75rem;
+    font-weight: 500;
+    margin-top: 0;
+}
+.defil {
+	width: 70%;
+}
+#afficheur{
+	width: 900px;
+	height:360px;
+	background-color: #000;
+	line-height: 360px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 30px;
+}
+img {
+	vertical-align: middle;
+}
+.txt-affich {
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem;
+	font-size: 1.5rem;
+	font-weight: 500;
+    line-height: 1.2;
+}
+footer {
+	margin-top: auto!important;
+	font-style: italic!important;
+	margin-top: 5rem!important;
+}
+.txt-manif {
+	text-align: justify!important;
+	margin-left: auto!important;
+	margin-right: auto!important;
+	max-width: 66.666667%;
+	padding-right: 15px;
+    padding-left: 15px;
+    line-height: 1.2;
+    font-size: 1.25rem;
+}
+.sigature{
+	text-align: right;
+}
+
+
